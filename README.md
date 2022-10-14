@@ -24,5 +24,9 @@ For usage and more detailed information, check out our [documentations][document
 
 - Firefox 78 ESR
 
+## Licence
+
+MIT
+
 [AMO]: https://addons.mozilla.org/en-US/firefox/addon/vim-vixen/
 [documentations]: https://ueokande.github.io/vim-vixen/
