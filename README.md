@@ -3,7 +3,7 @@
 ## What is Vim Vix Remix ?
 
 Vim Vix Remix is a fork of [Vim Vixen](https://github.com/ueokande/vim-vixen).
-This fork exist because the original repository is no longer maintained.
+<!-- This fork exist because the original repository is no longer maintained. -->
 For more information, read this [Pull Request](https://github.com/ueokande/vim-vixen/pull/1437)
 
 Vim Vix Remix is a Firefox add-on which allows you to easily navigate the web by
@@ -23,6 +23,10 @@ For usage and more detailed information, check out our [documentations][document
 ## Compatibility
 
 - Firefox 78 ESR
+
+## Copyright
+
+Copyright © 2017-2020 by Shin'ya Ueoka
 
 ## Licence
 
