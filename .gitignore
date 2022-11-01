@@ -3,6 +3,5 @@
 *.zip
 lanthan-driver.log
 package-lock.json
-*.swo
-*.swp
+*.sw[op]
 tags
