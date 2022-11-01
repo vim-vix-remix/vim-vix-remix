@@ -4,7 +4,7 @@
 
 Vim Vix Remix is a fork of [Vim Vixen](https://github.com/ueokande/vim-vixen).
 <!-- This fork exist because the original repository is no longer maintained. -->
-For more information, read this [Pull Request](https://github.com/ueokande/vim-vixen/pull/1437)
+For more information, read [this pull request](https://github.com/ueokande/vim-vixen/pull/1437).
 
 Vim Vix Remix is a Firefox add-on which allows you to easily navigate the web by
 keyboard. Since version 57, Firefox has migrated to the WebExtensions API and
