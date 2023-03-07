@@ -15,22 +15,10 @@ since it uses the WebExtensions API.
 
 *TODO: add new download and documentation link*
 
-## Vim Vixen link
-
-To get Vim Vixen, install it from [Firefox add-ons][AMO].
-For usage and more detailed information, check out our [documentations][documentations].
-
 ## Compatibility
 
 - Firefox 78 ESR
 
-## Copyright
-
-Copyright © 2017-2020 by Shin'ya Ueoka
-
 ## Licence
 
 MIT
-
-[AMO]: https://addons.mozilla.org/en-US/firefox/addon/vim-vixen/
-[documentations]: https://ueokande.github.io/vim-vixen/
