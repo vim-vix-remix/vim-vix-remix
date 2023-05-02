@@ -22,7 +22,7 @@ yarn package
 
 ## Vim Vix Remix
 
-*TODO: add new download and documentation link*
+Download : [vim-vix-remix](https://addons.mozilla.org/en-US/firefox/addon/vim-vix-remix/)
 
 ## Compatibility
 
