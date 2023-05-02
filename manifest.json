@@ -1,15 +1,15 @@
 {
   "manifest_version": 2,
-  "name": "Vim Vixen",
-  "description": "Vim Vixen",
-  "version": "1.2.4",
+  "name": "Vim Vix Remix",
+  "description": "Vim Vix Remix is a Firefox add-on which allows you to navigate with the keyboard on the browser.",
+  "version": "2.0.0",
   "icons": {
     "48": "resources/icon_48x48.png",
     "96": "resources/icon_96x96.png"
   },
-  "applications": {
+  "browser_specific_settings": {
     "gecko": {
-      "id": "vim-vixen@i-beam.org"
+      "id": "vim-vix-remix@test.com"
     }
   },
   "content_scripts": [
@@ -47,6 +47,6 @@
     "default_icon": {
       "32": "resources/enabled_32x32.png"
     },
-    "default_title": "Vim Vixen"
+    "default_title": "Vim Vix Remix"
   }
 }

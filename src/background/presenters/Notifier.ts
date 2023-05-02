@@ -9,7 +9,7 @@ export default interface Notifier {
 
 export class NotifierImpl implements NotifierImpl {
   async notifyUpdated(version: string, onclick: () => void): Promise<void> {
-    const title = `Vim Vixen ${version} has been installed`;
+    const title = `Vim Vix Remix ${version} has been installed`;
     const message = "Click here to see release notes";
 
     const listener = (id: string) => {
@@ -31,7 +31,7 @@ export class NotifierImpl implements NotifierImpl {
 
   async notifyInvalidSettings(
     error: Error,
-    onclick: () => void
+    onclick: () => void,
   ): Promise<void> {
     const title = `Loading settings failed`;
     // eslint-disable-next-line max-len

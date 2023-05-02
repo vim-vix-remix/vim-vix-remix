@@ -1,5 +1,6 @@
 import { injectable } from "tsyringe";
 
+// TODO : propose new help page
 const url = "https://ueokande.github.io/vim-vixen/";
 
 @injectable()
