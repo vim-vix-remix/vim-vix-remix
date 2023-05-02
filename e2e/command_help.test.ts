@@ -41,6 +41,7 @@ describe("help command test", () => {
 
     await eventually(async () => {
       const tabs = await browser.tabs.query({ active: true });
+      // TODO : propose a new help page
       assert.strictEqual(tabs[0].url, "https://ueokande.github.io/vim-vixen/");
     });
   });

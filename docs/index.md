@@ -1,21 +1,21 @@
 ---
-title: Vim Vixen
+title: Vim Vix Remix
 ---
 
-# Vim Vixen
+# Vim Vix Remix
 
-Vim Vixen is a Firefox add-on which allows you to easily navigate the web by
+Vim Vix Remix is a Firefox add-on which allows you to easily navigate the web by
 keyboard. Since version 57, Firefox has migrated to the WebExtensions API and
-has dropped support for legacy add-ons. Vim Vixen is a new choice for Vim users
+has dropped support for legacy add-ons. Vim Vix Remix is a new choice for Vim users
 since it uses the WebExtensions API.
 
 ## Getting started
 
-### Install Vim Vixen
+### Install Vim Vix Remix
 
-Vim Vixen is supported on Firefox 68 ESR.  Please install the latest version of stable ESR
+Vim Vix Remix is supported on Firefox 68 ESR.  Please install the latest version of stable ESR
 from the [download page](https://www.mozilla.org/en-US/firefox/).
-You can install Vim Vixen from [Firefox add-ons (addons.mozilla.org)][AMO], and
+You can install Vim Vix Remix from [Firefox add-ons (addons.mozilla.org)][AMO], and
 manage installed add-ons on Firefox preferences `about:preferences`.
 
 ### Quick start
@@ -36,7 +36,7 @@ See also [Keymaps](./keymaps.md) for more detailed of keymaps.
 
 ### Using commands
 
-Vim Vixen supports command line to run commands that control tabs and opens a
+Vim Vix Remix supports command line to run commands that control tabs and opens a
 tab.  To open command line, press <kbd>:</kbd>.
 
 To open a tab with URL, use `open` command as the following:
